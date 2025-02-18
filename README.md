@@ -17,12 +17,12 @@
 
 > *"Kode bukanlah hanya instruksi untuk komputer, tetapi komunikasi antar manusia yang peduli dengan pemecahan masalah."*
 
-Saya adalah seorang [Programer dan juga guru], dalam mengembangkan produk-produk digital inovatif. Dengan pendekatan yang detail dan berorientasi solusi, saya telah:
+Abdul Haris rosa, Tegal, Jawa tengah, indonesia,
+saya adalah seorang Mahasiswa yang sambil bekerja, saya salah satu karyawan dari SMK bhakti praja talang, hobi saya ngoprex dan turing (turu miring hehe) bercanda yang bener touring beneran, selain itu banyak yang saya kerjakan di lain kesibukan saya seperti:
 
-- 🔭 Mengembangkan aplikasi untuk [industri/sektor]
+- 🔭 Mengembangkan aplikasi,
 - 🌱 Bekerja dengan tim lintas fungsi untuk menciptakan produk
 - 👯 Menerapkan praktik terbaik dalam pengembangan perangkat lunak dan UI/UX
-- 🥇 Diakui oleh [penghargaan/pencapaian penting]
 
 ---
 
