@@ -147,16 +147,16 @@ saya adalah seorang Mahasiswa yang sambil bekerja, saya salah satu karyawan dari
 ## 📈 GitHub Statistik
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulharisr&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=abdulharisr&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulharisr&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulharisr&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=onedark&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulharisr&theme=onedark&column=7" />
 </div>
 
 ---
@@ -169,25 +169,25 @@ saya adalah seorang Mahasiswa yang sambil bekerja, saya salah satu karyawan dari
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/company.png" width="30" />
         <p>
-          <strong>[Nama Perusahaan]</strong><br>
-          [Posisi]<br>
-          [Tahun Mulai - Tahun Selesai]
+          <strong>[Badan Pusat Statistik]</strong><br>
+          [PPL]<br>
+          [2022 - 2023]
         </p>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/company.png" width="30" />
         <p>
-          <strong>[Nama Perusahaan]</strong><br>
-          [Posisi]<br>
-          [Tahun Mulai - Tahun Selesai]
+          <strong>[KPU]</strong><br>
+          [Pantarlih, Ketua KPPS]<br>
+          [2024 - 2024]
         </p>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/company.png" width="30" />
         <p>
-          <strong>[Nama Perusahaan]</strong><br>
-          [Posisi]<br>
-          [Tahun Mulai - Tahun Selesai]
+          <strong>[SMK BHAKTI PRAJA TALANG]</strong><br>
+          [Tool man, Tenaga Pengajar]<br>
+          [2024 - Sekarang]
         </p>
       </td>
     </tr>
@@ -217,10 +217,10 @@ saya adalah seorang Mahasiswa yang sambil bekerja, saya salah satu karyawan dari
 
 <div align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=username&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=abdulharisr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
   </p>
   
-  <p>⭐️ Dari <a href="https://github.com/username">Nama Anda</a></p>
+  <p>⭐️ Dari <a href="https://github.com/abdulharisr">ABDUL HARIS R</a></p>
   
   <p>
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
