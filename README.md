@@ -147,7 +147,7 @@ saya adalah seorang Mahasiswa yang sambil bekerja, saya salah satu karyawan dari
 ## 📈 GitHub Statistik
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulharisr&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
@@ -202,7 +202,7 @@ saya adalah seorang Mahasiswa yang sambil bekerja, saya salah satu karyawan dari
   <a href="mailto:elharyz09@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/085335777633">
+  <a href="https://wa.me/+6285335777633">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://t.me/username">
