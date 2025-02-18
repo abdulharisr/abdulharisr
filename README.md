@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Data+Scientist;UI/UX+Designer;Web+Developer&font=Fira%20Code&center=true&width=380&height=50">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www..com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulharis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-haris-r)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulharisr)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@)
+[![Medium](https://img.shields.io/badge/Instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@_haris.me)
 
 </div>
 
