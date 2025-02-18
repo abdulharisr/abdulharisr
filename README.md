@@ -199,16 +199,16 @@ saya adalah seorang Mahasiswa yang sambil bekerja, saya salah satu karyawan dari
 ## 📞 Hubungi Saya
 
 <div align="center">
-  <a href="mailto:email@namaanda.com">
+  <a href="mailto:elharyz09@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/your-number">
+  <a href="https://wa.me/085335777633">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://t.me/username">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://discordapp.com/users/your-id">
+  <a href="https://discordapp.com/users/ryzz13">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
