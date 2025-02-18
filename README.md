@@ -146,8 +146,8 @@ saya adalah seorang Mahasiswa yang sambil bekerja, saya salah satu karyawan dari
 
 ## 📈 GitHub Statistik
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=abdulharisr&theme=tokyonight" alt="GitHub Streak Stats" />
+<div align="center" style="margin: 20px 0; padding: 10px; border: 2px solid #58A6FF; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulharisr&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
