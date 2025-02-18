@@ -29,61 +29,54 @@ saya adalah seorang Mahasiswa yang sambil bekerja, saya salah satu karyawan dari
 ## 💼 Proyek Unggulan
 
 <div align="center">
-
-### ✦ [Nama Proyek 1](https://github.com/username/project1) ✦
-
+✦ Smart School Management System ✦
 <p>
-  <img src="https://via.placeholder.com/600x300" alt="Project 1" width="600"/>
+  <img src="https://raw.githubusercontent.com/abdulharisr/abdulharisr/main/projects/school-management.gif" alt="Project 1" width="600"/>
   <br>
-  <em>Deskripsi singkat dengan kata kunci: inovatif, modern, efisien</em>
+  <em>Sistem manajemen sekolah terintegrasi dengan teknologi AI untuk membantu efisiensi administrasi</em>
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
-
 <details>
   <summary><b>💡 Lihat Detail</b></summary>
-  
-  #### Fitur Utama
-  - 🔐 **Sistem Keamanan Multi-layer**: Autentikasi dan otorisasi tingkat lanjut
-  - 📊 **Analitik Real-time**: Dashboard interaktif dengan visualisasi data
-  - 🔄 **API Gateway**: Integrasi mulus dengan layanan pihak ketiga
-  - 🌐 **Global Deployment**: Digunakan di [X] negara dengan [Y] bahasa
+Fitur Utama
 
-  #### Tantangan & Solusi
-  Menghadapi tantangan [X], saya mengimplementasikan [solusi inovatif] yang menghasilkan [peningkatan kinerja] sebesar [Z%].
+🔐 Sistem Keamanan Multi-layer: Autentikasi biometrik dan keamanan data yang kuat
+📊 Analitik Real-time: Dashboard interaktif dengan visualisasi data dan laporan otomatis
+🤖 Asisten Virtual: Chatbot untuk membantu siswa dan orang tua dengan informasi cepat
+🌐 Multi-platform: Berfungsi di web, mobile, dan desktop dengan pengalaman yang konsisten
+
+Tantangan & Solusi
+Menghadapi tantangan dalam integrasi berbagai sistem yang sudah ada, saya mengimplementasikan arsitektur mikroservis dengan API Gateway yang menghasilkan peningkatan performa 45% dan mengurangi waktu loading 60%.
 </details>
-
-### ✦ [Nama Proyek 2](https://github.com/username/project2) ✦
-
+✦ AgriTech Monitoring System ✦
 <p>
-  <img src="https://via.placeholder.com/600x300" alt="Project 2" width="600"/>
+  <img src="https://raw.githubusercontent.com/abdulharisr/abdulharisr/main/projects/agritech.gif" alt="Project 2" width="600"/>
   <br>
-  <em>Deskripsi singkat dengan kata kunci: revolusioner, AI-driven, scalable</em>
+  <em>Platform IoT untuk monitoring lahan pertanian dengan analisis prediktif dan kontrol otomatis</em>
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 </p>
-
 <details>
   <summary><b>💡 Lihat Detail</b></summary>
-  
-  #### Fitur Utama
-  - 🧠 **AI Prediction Engine**: Algoritma machine learning yang memprediksi [hasil]
-  - 📱 **Cross-platform Experience**: Antarmuka yang konsisten di iOS, Android, dan Web
-  - 🔔 **Smart Notifications**: Pemberitahuan kontekstual berbasis perilaku pengguna
-  - ☁️ **Serverless Architecture**: Skalabilitas otomatis untuk jutaan pengguna
+Fitur Utama
 
-  #### Tantangan & Solusi
-  Ketika menghadapi [masalah kompleks], saya merancang [pendekatan unik] yang berhasil [meningkatkan metrik utama] sebesar [Z%].
+🧠 AI Prediction Engine: Algoritma ML yang memprediksi cuaca, hama, dan hasil panen
+📱 Cross-platform Experience: Antarmuka yang responsif di iOS, Android, dan Web
+🌡️ Sensor Integration: Monitoring suhu, kelembapan, pH tanah secara real-time
+☁️ Serverless Architecture: Skalabilitas otomatis dengan Firebase dan Google Cloud
+
+Tantangan & Solusi
+Ketika menghadapi masalah konektivitas di daerah pedesaan, saya merancang sistem caching offline yang dapat menyimpan data hingga 30 hari dan sinkronisasi otomatis saat terhubung kembali, meningkatkan keandalan sistem sebesar 95%.
 </details>
-
 </div>
 
 ---
@@ -91,8 +84,8 @@ saya adalah seorang Mahasiswa yang sambil bekerja, saya salah satu karyawan dari
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,rust" /><br>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,svelte" /><br>
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,php,html" /><br>
+  <img src="https://skillicons.dev/icons?i=codeigniter,laravel,bootstrap,tailwind,nodejs" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" /><br>
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" />
 </div>
@@ -219,6 +212,7 @@ saya adalah seorang Mahasiswa yang sambil bekerja, saya salah satu karyawan dari
   <p>
     <img src="https://komarev.com/ghpvc/?username=abdulharisr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
   </p>
+  <p>👋 <strong>Hello there!</strong> Thanks for visiting my profile. Let's connect and build something amazing together!</p>
   
   <p>⭐️ Dari <a href="https://github.com/abdulharisr">ABDUL HARIS R</a></p>
   
