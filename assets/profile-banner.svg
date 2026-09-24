@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Abdul Haris Rosa — Teknologi, Pendidikan, dan Solusi Digital</title>
+<desc id="desc">Banner portofolio berwarna navy dengan aksen teal, bidang pengembangan web, jaringan komputer, dan pendidikan.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e34"/><stop offset="1" stop-color="#08131f"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7dd3c0" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="400" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="400" rx="20" fill="url(#grid)"/>
+<circle cx="1100" cy="80" r="245" fill="none" stroke="#57d5be" stroke-opacity=".12"/>
+<circle cx="1100" cy="80" r="180" fill="none" stroke="#57d5be" stroke-opacity=".16"/>
+<path d="M0 398H1200" stroke="#57d5be" stroke-width="4"/>
+<rect x="64" y="53" width="36" height="4" rx="2" fill="#57d5be"/>
+<text x="115" y="61" fill="#8aa5b9" font-family="Arial, sans-serif" font-size="13" letter-spacing="4">PERSONAL PORTFOLIO</text>
+<text x="60" y="144" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Abdul Haris Rosa</text>
+<text x="64" y="193" fill="#57d5be" font-family="Arial, sans-serif" font-size="25">Teknologi. Pendidikan. Solusi digital.</text>
+<text x="64" y="243" fill="#b8c8d8" font-family="Arial, sans-serif" font-size="18">Menghubungkan pengembangan perangkat lunak</text>
+<text x="64" y="271" fill="#b8c8d8" font-family="Arial, sans-serif" font-size="18">dengan kebutuhan pendidikan dan jaringan komputer.</text>
+<g font-family="Arial, sans-serif" font-size="13" fill="#d6e5ed">
+<rect x="64" y="316" width="164" height="34" rx="17" fill="#1a3042"/><text x="83" y="338">WEB DEVELOPMENT</text>
+<rect x="240" y="316" width="130" height="34" rx="17" fill="#1a3042"/><text x="261" y="338">NETWORKING</text>
+<rect x="382" y="316" width="122" height="34" rx="17" fill="#1a3042"/><text x="403" y="338">EDUCATION</text>
+</g>
+<rect x="902" y="124" width="204" height="156" rx="18" fill="#102b36" stroke="#31515b"/>
+<text x="939" y="220" fill="#57d5be" font-family="monospace" font-size="62" font-weight="700">&lt;/&gt;</text>
+<text x="937" y="311" fill="#8aa5b9" font-family="monospace" font-size="15">@abdulharisr</text>
+</svg>
