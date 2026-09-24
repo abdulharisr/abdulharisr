@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Abdul Haris Rosa — portofolio pengembangan web, jaringan komputer, dan pendidikan." />
+  <img src="./assets/profile-banner.svg?v=glass-3d" width="100%" alt="Abdul Haris Rosa — kubus kaca AR 3D bergerak, logo JavaScript dan PHP melayang, serta orbit teknologi." />
 </p>
 
 <p align="center">
