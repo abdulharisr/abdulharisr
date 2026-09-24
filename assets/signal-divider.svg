@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="30" viewBox="0 0 1000 30" role="img" aria-label="Pemisah bagian dekoratif"><defs><linearGradient id="beam"><stop stop-color="#65f4cf" stop-opacity="0"/><stop offset=".5" stop-color="#65f4cf"/><stop offset="1" stop-color="#acb5ff" stop-opacity="0"/></linearGradient></defs><style>
+@keyframes orbit{to{transform:rotate(360deg)}}
+@keyframes drift{50%{transform:translateY(-12px)}}
+@keyframes breathe{50%{opacity:.35}}
+@keyframes flow{to{stroke-dashoffset:-160}}
+@keyframes cursor{0%,45%{opacity:1}50%,95%{opacity:0}}
+@keyframes sweep{0%{transform:translateX(-160px)}100%{transform:translateX(1120px)}}
+.orbit{transform-box:fill-box;transform-origin:center;animation:orbit 36s linear infinite}
+.reverse{animation-direction:reverse;animation-duration:48s}
+.float{animation:drift 8s ease-in-out infinite}
+.pulse{animation:breathe 6s ease-in-out infinite}
+.flow{animation:flow 14s linear infinite}
+.cursor{animation:cursor 2s steps(1) infinite}
+.sweep{animation:sweep 12s linear infinite}
+@media(prefers-reduced-motion:reduce){.orbit,.float,.pulse,.flow,.cursor,.sweep{animation:none!important}}
+</style><path d="M0 15H1000" stroke="#7c97b5" stroke-opacity=".2"/><path class="sweep" d="M0 15H160" stroke="url(#beam)" stroke-width="2"/></svg>
