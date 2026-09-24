@@ -1,27 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
-<title id="title">Abdul Haris Rosa — Teknologi, Pendidikan, dan Solusi Digital</title>
-<desc id="desc">Banner portofolio berwarna navy dengan aksen teal, bidang pengembangan web, jaringan komputer, dan pendidikan.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+<title id="title">Abdul Haris Rosa — Build with purpose.</title><desc id="desc">Portofolio pengembangan web, jaringan komputer, dan pendidikan. Ilustrasi orbit bergerak perlahan di atas latar navy.</desc>
 <defs>
-<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e34"/><stop offset="1" stop-color="#08131f"/></linearGradient>
-<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7dd3c0" stroke-opacity=".07"/></pattern>
-</defs>
-<rect width="1200" height="400" rx="20" fill="url(#bg)"/>
-<rect width="1200" height="400" rx="20" fill="url(#grid)"/>
-<circle cx="1100" cy="80" r="245" fill="none" stroke="#57d5be" stroke-opacity=".12"/>
-<circle cx="1100" cy="80" r="180" fill="none" stroke="#57d5be" stroke-opacity=".16"/>
-<path d="M0 398H1200" stroke="#57d5be" stroke-width="4"/>
-<rect x="64" y="53" width="36" height="4" rx="2" fill="#57d5be"/>
-<text x="115" y="61" fill="#8aa5b9" font-family="Arial, sans-serif" font-size="13" letter-spacing="4">PERSONAL PORTFOLIO</text>
-<text x="60" y="144" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Abdul Haris Rosa</text>
-<text x="64" y="193" fill="#57d5be" font-family="Arial, sans-serif" font-size="25">Teknologi. Pendidikan. Solusi digital.</text>
-<text x="64" y="243" fill="#b8c8d8" font-family="Arial, sans-serif" font-size="18">Menghubungkan pengembangan perangkat lunak</text>
-<text x="64" y="271" fill="#b8c8d8" font-family="Arial, sans-serif" font-size="18">dengan kebutuhan pendidikan dan jaringan komputer.</text>
-<g font-family="Arial, sans-serif" font-size="13" fill="#d6e5ed">
-<rect x="64" y="316" width="164" height="34" rx="17" fill="#1a3042"/><text x="83" y="338">WEB DEVELOPMENT</text>
-<rect x="240" y="316" width="130" height="34" rx="17" fill="#1a3042"/><text x="261" y="338">NETWORKING</text>
-<rect x="382" y="316" width="122" height="34" rx="17" fill="#1a3042"/><text x="403" y="338">EDUCATION</text>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101829"/><stop offset="1" stop-color="#070b14"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#24d3be" stop-opacity=".19"/><stop offset="1" stop-color="#24d3be" stop-opacity="0"/></radialGradient>
+<linearGradient id="line"><stop stop-color="#65f4cf"/><stop offset=".5" stop-color="#76acff"/><stop offset="1" stop-color="#bc9cff"/></linearGradient>
+<pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#b8d8ff" opacity=".12"/></pattern>
+<clipPath id="clip"><rect width="1000" height="520" rx="24"/></clipPath>
+</defs><style>
+@keyframes orbit{to{transform:rotate(360deg)}}
+@keyframes drift{50%{transform:translateY(-12px)}}
+@keyframes breathe{50%{opacity:.35}}
+@keyframes flow{to{stroke-dashoffset:-160}}
+@keyframes cursor{0%,45%{opacity:1}50%,95%{opacity:0}}
+@keyframes sweep{0%{transform:translateX(-160px)}100%{transform:translateX(1120px)}}
+.orbit{transform-box:fill-box;transform-origin:center;animation:orbit 36s linear infinite}
+.reverse{animation-direction:reverse;animation-duration:48s}
+.float{animation:drift 8s ease-in-out infinite}
+.pulse{animation:breathe 6s ease-in-out infinite}
+.flow{animation:flow 14s linear infinite}
+.cursor{animation:cursor 2s steps(1) infinite}
+.sweep{animation:sweep 12s linear infinite}
+@media(prefers-reduced-motion:reduce){.orbit,.float,.pulse,.flow,.cursor,.sweep{animation:none!important}}
+</style>
+<g clip-path="url(#clip)">
+<rect width="1000" height="520" fill="url(#bg)"/><rect width="1000" height="520" fill="url(#dots)"/>
+<circle class="pulse" cx="795" cy="235" r="260" fill="url(#glow)"/>
+<path d="M48 85H952M48 455H952" stroke="#243146"/>
+<g font-family="Arial, sans-serif">
+<rect x="48" y="32" width="36" height="32" rx="9" fill="#65f4cf"/><text x="54" y="54" fill="#0c1620" font-size="16" font-weight="700">AR</text>
+<text x="99" y="53" fill="#eef4ff" font-size="15" font-weight="700" letter-spacing="1">ABDUL HARIS ROSA</text>
+<text x="951" y="53" text-anchor="end" fill="#94a8c4" font-size="12" letter-spacing="2">PERSONAL PORTFOLIO / 01</text>
+<text x="48" y="127" fill="#65f4cf" font-size="12" letter-spacing="3">CODE · NETWORKS · EDUCATION</text>
+<text x="43" y="202" fill="#f4f7fe" font-size="69" font-weight="700" letter-spacing="-3">Build with</text>
+<text x="43" y="278" fill="url(#line)" font-size="78" font-weight="700" letter-spacing="-3">purpose.</text>
+<text x="48" y="323" fill="#d6e0ef" font-size="22">Halo, saya Abdul Haris Rosa.</text>
+<text x="48" y="361" fill="#9eafc7" font-size="17">Menghubungkan teknologi, pendidikan,</text>
+<text x="48" y="387" fill="#9eafc7" font-size="17">dan kebutuhan nyata melalui solusi digital.</text>
+<text x="48" y="491" fill="#afbed2" font-size="12" letter-spacing="2">INFORMATIKA</text>
+<text x="286" y="491" fill="#afbed2" font-size="12" letter-spacing="2">WEB DEVELOPMENT</text>
+<text x="585" y="491" fill="#afbed2" font-size="12" letter-spacing="2">NETWORKING</text>
+<text x="833" y="491" fill="#65f4cf" font-size="12" letter-spacing="2">TERUS BELAJAR ↗</text>
 </g>
-<rect x="902" y="124" width="204" height="156" rx="18" fill="#102b36" stroke="#31515b"/>
-<text x="939" y="220" fill="#57d5be" font-family="monospace" font-size="62" font-weight="700">&lt;/&gt;</text>
-<text x="937" y="311" fill="#8aa5b9" font-family="monospace" font-size="15">@abdulharisr</text>
-</svg>
+<g transform="translate(769 257)">
+<circle r="149" fill="none" stroke="#1e3445"/>
+<g class="orbit"><circle r="128" fill="none" stroke="#65f4cf" stroke-opacity=".34" stroke-dasharray="120 24 8 24"/><circle cx="128" cy="0" r="5" fill="#65f4cf"/></g>
+<g class="orbit reverse"><ellipse rx="155" ry="72" fill="none" stroke="#9caafa" stroke-opacity=".5"/><circle cx="-155" cy="0" r="5" fill="#aeacff"/></g>
+<circle r="88" fill="#10222c" stroke="#325361"/>
+<circle r="73" fill="none" stroke="#65f4cf" stroke-opacity=".17" stroke-dasharray="3 9"/>
+<g class="float"><text x="0" y="19" text-anchor="middle" fill="#b4ffe6" font-family="monospace" font-size="54" font-weight="700">&lt;/&gt;</text></g>
+<circle class="pulse" cx="89" cy="-115" r="8" fill="#a4b5ff"/><circle class="pulse" cx="-105" cy="120" r="4" fill="#65f4cf"/>
+</g>
+<rect x="655" y="386" width="230" height="34" rx="8" fill="#111e2b" stroke="#2b4256"/>
+<text x="672" y="408" fill="#91b3bd" font-family="monospace" font-size="12">~/abdulharisr</text><rect class="cursor" x="832" y="397" width="7" height="13" fill="#65f4cf"/>
+<path d="M24 519H976" stroke="url(#line)" stroke-width="3"/>
+</g></svg>
