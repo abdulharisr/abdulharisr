@@ -1,12 +1,6 @@
 <p align="center">
-  <a href="https://abdul-haris-rosa-portfolio.elharyz09.chatgpt.site">
-    <img src="./assets/profile-banner.svg" width="100%" alt="Abdul Haris Rosa — klik untuk membuka portofolio interaktif 3D." />
-  </a>
+  <img src="./assets/profile-banner.svg" width="100%" alt="Abdul Haris Rosa — portofolio pengembangan web, jaringan komputer, dan pendidikan." />
 </p>
-
-<h3 align="center"><a href="https://abdul-haris-rosa-portfolio.elharyz09.chatgpt.site">✦ BUKA PORTOFOLIO INTERAKTIF 3D ↗</a></h3>
-<p align="center">Jelajahi versi lengkap dengan visual 3D, liquid glass, dan animasi interaktif.</p>
-<p align="center"><a href="https://github.com/abdulharisr/abdulharisr/tree/main/docs">Lihat kode portofolio di GitHub ↗</a></p>
 
 <p align="center">
   <strong><a href="#01--tentang-saya">TENTANG</a> &nbsp; · &nbsp;
